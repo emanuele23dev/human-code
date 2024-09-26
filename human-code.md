@@ -1,4 +1,12 @@
-## HUMAN-CODE
+# TEAM 4
+
+-Meggiarin Emanuele
+-Jacopo Trincanato
+-Martina Sartori
+-Gabriele Viola
+-Salvo Parisi
+
+# HUMAN-CODE
 
 LASAGNE ALLA BOLOGNESE
 
